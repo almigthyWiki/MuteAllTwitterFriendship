@@ -5,7 +5,7 @@ Requiere acceso API, puedes solicitarla en "https://developer.twitter.com/"
 Ya con el acceso a la aplicación en modo desarrollador, reemplazar en el script
 "mute_accounts.py" con las llaves correspondientes de la cuenta.
 
-  consumer_key = ''
+  consumer_key = ''\n
   consumer_secret = ''
   access_token = ''
   access_token_secret = ''
